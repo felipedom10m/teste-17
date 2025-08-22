@@ -9,5 +9,7 @@
   "transacao_id": "pix_checkout_685327",
   "acesso_liberado": true,
   "nome": "Felipe de Sousa",
-  "cpf": "19100000000"
+  "cpf": "19100000000",
+  "senha": "flupin1234",
+  "data_recuperacao": "2025-08-22T17:06:34.548Z"
 }
