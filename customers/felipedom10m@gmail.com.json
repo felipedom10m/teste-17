@@ -6,5 +6,7 @@
   "transacao_id": "pix_checkout_871108",
   "acesso_liberado": true,
   "nome": "teste teste",
-  "cpf": "19100000000"
+  "cpf": "19100000000",
+  "senha": "felipedom10m1234",
+  "data_recuperacao": "2025-08-22T16:56:32.737Z"
 }
