@@ -1,0 +1,13 @@
+{
+  "email": "flupin@gmail.com",
+  "produto": "teste-17",
+  "upsells_comprados": [
+    2,
+    4
+  ],
+  "data": "2025-08-22T17:06:26.785Z",
+  "transacao_id": "pix_checkout_685327",
+  "acesso_liberado": true,
+  "nome": "Felipe de Sousa",
+  "cpf": "19100000000"
+}
